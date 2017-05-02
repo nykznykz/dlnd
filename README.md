@@ -8,6 +8,9 @@ Submissions for the Udacity Deep Learning Foundations Nanodegree
 	* Also included a Tensorflow solution
 
 * Project 2: Image Classification
+
+	* Built an Convolutional Neural Network to classify images from the CIFAR-10 dataset using Tensorflow
+
 * Project 3: Generate TV scripts
 * Project 4: Language Translations
 * Project 5: Generative Adversarial Network (GAN) Project
